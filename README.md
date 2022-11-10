@@ -20,6 +20,7 @@ roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 ## 4.Run in the PC
 roscore
+
 roslaunch line_follower_turtlebot lf.launch
 
 roslaunch line_follower_turtlebot aruco_marker_finder.launch
